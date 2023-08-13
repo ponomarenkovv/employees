@@ -15,7 +15,9 @@ class App extends Component {
         data: [
           {name: 'Паншин Ігор', salary: 800, increase: false, rise: true, id: 1},
           {name: 'Наталуха Дмитро', salary: 2000, increase: true, rise: false, id: 2},
-          {name: 'Іваненко Олексій', salary: 1500, increase: false, rise: false, id: 3}
+          {name: 'Іваненко Олексій', salary: 1500, increase: false, rise: false, id: 3},
+          {name: 'Шевченко Андрій', salary: 1300, increase: false, rise: false, id: 4},
+          {name: 'Дяченко Олексій', salary: 900, increase: false, rise: false, id: 5}
         ], 
         term: '',
         filter: 'all'
